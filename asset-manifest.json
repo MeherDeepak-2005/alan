@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MeherDeepak-2005/meherdeepak.github.io.git/static/css/main.aa0dc528.chunk.css",
+    "main.js": "/MeherDeepak-2005/meherdeepak.github.io.git/static/js/main.25a1c763.chunk.js",
+    "main.js.map": "/MeherDeepak-2005/meherdeepak.github.io.git/static/js/main.25a1c763.chunk.js.map",
+    "runtime-main.js": "/MeherDeepak-2005/meherdeepak.github.io.git/static/js/runtime-main.fd7246c8.js",
+    "runtime-main.js.map": "/MeherDeepak-2005/meherdeepak.github.io.git/static/js/runtime-main.fd7246c8.js.map",
+    "static/js/2.09880c29.chunk.js": "/MeherDeepak-2005/meherdeepak.github.io.git/static/js/2.09880c29.chunk.js",
+    "static/js/2.09880c29.chunk.js.map": "/MeherDeepak-2005/meherdeepak.github.io.git/static/js/2.09880c29.chunk.js.map",
+    "static/js/3.3fead691.chunk.js": "/MeherDeepak-2005/meherdeepak.github.io.git/static/js/3.3fead691.chunk.js",
+    "static/js/3.3fead691.chunk.js.map": "/MeherDeepak-2005/meherdeepak.github.io.git/static/js/3.3fead691.chunk.js.map",
+    "index.html": "/MeherDeepak-2005/meherdeepak.github.io.git/index.html",
+    "static/css/main.aa0dc528.chunk.css.map": "/MeherDeepak-2005/meherdeepak.github.io.git/static/css/main.aa0dc528.chunk.css.map",
+    "static/js/2.09880c29.chunk.js.LICENSE.txt": "/MeherDeepak-2005/meherdeepak.github.io.git/static/js/2.09880c29.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/MeherDeepak-2005/meherdeepak.github.io.git/static/media/landing-page-girl.9d276ac0.png",
+    "static/media/logo.ae988166.png": "/MeherDeepak-2005/meherdeepak.github.io.git/static/media/logo.ae988166.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd7246c8.js",
+    "static/js/2.09880c29.chunk.js",
+    "static/css/main.aa0dc528.chunk.css",
+    "static/js/main.25a1c763.chunk.js"
+  ]
+}
